@@ -763,6 +763,7 @@
 
 ## Python 
 
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [serverless-ca/terraform-aws-ca](https://github.com/serverless-ca/terraform-aws-ca) - Terraform module for serverless certificate authority on AWS
 - [thinh-vu/vnstock](https://github.com/thinh-vu/vnstock) - A powerful Python library for getting rich data from the Vietnam Stock Market using just a few lines of code
 - [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) - The Open English WordNet
