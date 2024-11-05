@@ -2333,6 +2333,8 @@
 
 ## others 
 
+- [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
+- [minhpq331/facebook-image-preview](https://github.com/minhpq331/facebook-image-preview) - Generate facebook image preview on demand
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [thinh-vu/vnstock](https://github.com/thinh-vu/vnstock) - A powerful Python library for getting rich data from the Vietnam Stock Market using just a few lines of code
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Collaborative book Machine Learning Systems
