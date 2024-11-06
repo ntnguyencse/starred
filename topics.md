@@ -2335,6 +2335,7 @@
 
 ## others 
 
+- [rockman88v/kubernetes-terraform](https://github.com/rockman88v/kubernetes-terraform) - Deploy a single-master kubernetes cluster with multiple worker-node using AWS EC2
 - [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
 - [minhpq331/facebook-image-preview](https://github.com/minhpq331/facebook-image-preview) - Generate facebook image preview on demand
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
