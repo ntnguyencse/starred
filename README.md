@@ -912,6 +912,7 @@
 
 ## Shell 
 
+- [rockman88v/kubernetes-terraform](https://github.com/rockman88v/kubernetes-terraform) - Deploy a single-master kubernetes cluster with multiple worker-node using AWS EC2
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
