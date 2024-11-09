@@ -1278,7 +1278,6 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -2447,6 +2446,7 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [vexxhost/magnum-cluster-api](https://github.com/vexxhost/magnum-cluster-api) - Cluster API driver for OpenStack Magnum
 - [divio/documentation-framework](https://github.com/divio/documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [soheilhy/cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port!
 - [matysiaq/kpt-packages-catalog](https://github.com/matysiaq/kpt-packages-catalog) - 
 - [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid) - 
