@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) - [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
 - [lampnick/doctron](https://github.com/lampnick/doctron) - html转pdf , html转图片 , Docker-powered html convert to pdf(html2pdf), html to image(html2image like jpeg,png),which using chrome(golang) kernel.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
