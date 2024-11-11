@@ -2333,6 +2333,7 @@
 
 ## others 
 
+- [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) - [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [rockman88v/kubernetes-terraform](https://github.com/rockman88v/kubernetes-terraform) - Deploy a single-master kubernetes cluster with multiple worker-node using AWS EC2
 - [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
 - [minhpq331/facebook-image-preview](https://github.com/minhpq331/facebook-image-preview) - Generate facebook image preview on demand
