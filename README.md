@@ -59,6 +59,7 @@
 
 ## C 
 
+- [AkihiroSuda/passt-mirror](https://github.com/AkihiroSuda/passt-mirror) - Mirror of https://passt.top/passt/ . Pull requests are not accepted here.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
