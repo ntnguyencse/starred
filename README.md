@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) - [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
 - [lampnick/doctron](https://github.com/lampnick/doctron) - html转pdf , html转图片 , Docker-powered html convert to pdf(html2pdf), html to image(html2image like jpeg,png),which using chrome(golang) kernel.
@@ -639,6 +640,7 @@
 
 ## Others 
 
+- [ygalblum/quadlet-demo](https://github.com/ygalblum/quadlet-demo) - 
 - [siyuan-note/awesome-siyuan](https://github.com/siyuan-note/awesome-siyuan) - 💕 SiYuan learning tutorials and resources, themes, widgets, and more, created by enthusiastic community users
 - [imjasonh/ImJasonH](https://github.com/imjasonh/ImJasonH) - 
 - [iam-veeramalla/Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
@@ -778,6 +780,7 @@
 
 ## Python 
 
+- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [kernelkit/infix](https://github.com/kernelkit/infix) - Linux :yellow_heart: NETCONF = Infix
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
