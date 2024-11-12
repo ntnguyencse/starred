@@ -997,6 +997,7 @@
 
 ## docker 
 
+- [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [dockur/statping](https://github.com/dockur/statping) - A status page for monitoring your websites and applications with beautiful graphs, analytics, and plugins.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
