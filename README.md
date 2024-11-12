@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) - [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [minhpq331/ratelimiter-example](https://github.com/minhpq331/ratelimiter-example) - Example of implementing a ratelimiter
