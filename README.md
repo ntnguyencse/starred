@@ -59,6 +59,7 @@
 
 ## C 
 
+- [troglobit/redir](https://github.com/troglobit/redir) - A TCP port redirector for UNIX
 - [AkihiroSuda/passt-mirror](https://github.com/AkihiroSuda/passt-mirror) - Mirror of https://passt.top/passt/ . Pull requests are not accepted here.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
@@ -506,6 +507,7 @@
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [zerotrustnetworkaccess/zerotrustnetworkaccess.info](https://github.com/zerotrustnetworkaccess/zerotrustnetworkaccess.info) - 
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -620,6 +622,7 @@
 
 ## Makefile 
 
+- [kernelkit/buildroot](https://github.com/kernelkit/buildroot) - Buildroot, embedded Linux made easy!  Note: this is not the official repo, see http://git.buildroot.net/buildroot/ Please do not open issues or file pull requests here.
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [big-data-europe/docker-hadoop-spark-workbench](https://github.com/big-data-europe/docker-hadoop-spark-workbench) - [EXPERIMENTAL] This repo includes deployment instructions for running HDFS/Spark inside docker containers. Also includes spark-notebook and HDFS FileBrowser.
@@ -775,6 +778,7 @@
 
 ## Python 
 
+- [kernelkit/infix](https://github.com/kernelkit/infix) - Linux :yellow_heart: NETCONF = Infix
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [serverless-ca/terraform-aws-ca](https://github.com/serverless-ca/terraform-aws-ca) - Terraform module for serverless certificate authority on AWS
@@ -883,6 +887,7 @@
 
 ## Rust 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -1000,6 +1005,9 @@
 
 ## TypeScript 
 
+- [vercel/analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights
+- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
