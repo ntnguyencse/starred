@@ -440,6 +440,7 @@
 
 ## HCL 
 
+- [rancher/quickstart](https://github.com/rancher/quickstart) - 
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
@@ -641,6 +642,8 @@
 
 ## Others 
 
+- [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
+- [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [ygalblum/quadlet-demo](https://github.com/ygalblum/quadlet-demo) - 
 - [siyuan-note/awesome-siyuan](https://github.com/siyuan-note/awesome-siyuan) - 💕 SiYuan learning tutorials and resources, themes, widgets, and more, created by enthusiastic community users
 - [imjasonh/ImJasonH](https://github.com/imjasonh/ImJasonH) - 
