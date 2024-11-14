@@ -59,6 +59,7 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [troglobit/redir](https://github.com/troglobit/redir) - A TCP port redirector for UNIX
 - [AkihiroSuda/passt-mirror](https://github.com/AkihiroSuda/passt-mirror) - Mirror of https://passt.top/passt/ . Pull requests are not accepted here.
@@ -628,6 +629,7 @@
 
 ## Makefile 
 
+- [rgeyer/grafana-cloud-nginxdemo](https://github.com/rgeyer/grafana-cloud-nginxdemo) - An easy to standup and consume stack to demonstrate the NGINX integration on Grafana Cloud
 - [kernelkit/buildroot](https://github.com/kernelkit/buildroot) - Buildroot, embedded Linux made easy!  Note: this is not the official repo, see http://git.buildroot.net/buildroot/ Please do not open issues or file pull requests here.
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
@@ -878,6 +880,7 @@
 
 ## Ruby 
 
+- [wvanbergen/request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer) - Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
 - [xcpretty/xcode-install](https://github.com/xcpretty/xcode-install) - 🔽 Install and update your Xcodes
 - [sous-chefs/aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -932,6 +935,7 @@
 
 ## Shell 
 
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [rockman88v/kubernetes-terraform](https://github.com/rockman88v/kubernetes-terraform) - Deploy a single-master kubernetes cluster with multiple worker-node using AWS EC2
