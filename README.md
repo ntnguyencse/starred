@@ -59,6 +59,7 @@
 
 ## C 
 
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [troglobit/redir](https://github.com/troglobit/redir) - A TCP port redirector for UNIX
 - [AkihiroSuda/passt-mirror](https://github.com/AkihiroSuda/passt-mirror) - Mirror of https://passt.top/passt/ . Pull requests are not accepted here.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -110,6 +111,7 @@
 
 ## C++ 
 
+- [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
