@@ -2395,7 +2395,7 @@
 - [minhpq331/facebook-image-preview](https://github.com/minhpq331/facebook-image-preview) - Generate facebook image preview on demand
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [thinh-vu/vnstock](https://github.com/thinh-vu/vnstock) - A powerful Python library for getting rich data from the Vietnam Stock Market using just a few lines of code
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Collaborative book Machine Learning Systems
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) - The Open English WordNet
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
