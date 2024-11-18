@@ -1015,7 +1015,7 @@
 
 ## TeX 
 
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Collaborative book Machine Learning Systems
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
