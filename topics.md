@@ -919,7 +919,6 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -3091,7 +3090,6 @@
 
 ## sql 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
