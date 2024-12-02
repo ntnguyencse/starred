@@ -794,6 +794,7 @@
 
 ## Python 
 
+- [igorbenav/FastAPI-boilerplate](https://github.com/igorbenav/FastAPI-boilerplate) - An extendable async API using FastAPI, Pydantic V2, SQLAlchemy 2.0, PostgreSQL and Redis.
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [kernelkit/infix](https://github.com/kernelkit/infix) - Linux :yellow_heart: NETCONF = Infix
