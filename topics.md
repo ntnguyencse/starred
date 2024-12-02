@@ -312,6 +312,7 @@
 
 ## api 
 
+- [igorbenav/FastAPI-boilerplate](https://github.com/igorbenav/FastAPI-boilerplate) - An extendable async API using FastAPI, Pydantic V2, SQLAlchemy 2.0, PostgreSQL and Redis.
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [rodyherrera/OpenDeyim](https://github.com/rodyherrera/OpenDeyim) - OpenDeyim is a modern, self-hosted, open source translation software licensed under the MIT license. Built on ReactJS with a rich user interface and experience and Python using Flask to provide an API
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
@@ -1007,6 +1008,7 @@
 
 ## docker 
 
+- [igorbenav/FastAPI-boilerplate](https://github.com/igorbenav/FastAPI-boilerplate) - An extendable async API using FastAPI, Pydantic V2, SQLAlchemy 2.0, PostgreSQL and Redis.
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [dockur/statping](https://github.com/dockur/statping) - A status page for monitoring your websites and applications with beautiful graphs, analytics, and plugins.
@@ -2377,6 +2379,8 @@
 
 ## others 
 
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
+- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
 - [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
@@ -2716,6 +2720,7 @@
 
 ## python 
 
+- [igorbenav/FastAPI-boilerplate](https://github.com/igorbenav/FastAPI-boilerplate) - An extendable async API using FastAPI, Pydantic V2, SQLAlchemy 2.0, PostgreSQL and Redis.
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
