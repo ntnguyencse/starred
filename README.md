@@ -209,6 +209,7 @@
 - [edgecomllc/eupf](https://github.com/edgecomllc/eupf) - 5G User Plane Function (UPF) based on eBPF
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -537,7 +538,6 @@
 - [abdulahad-07/react-native-tutorial](https://github.com/abdulahad-07/react-native-tutorial) - Full tutorial for react-native
 - [farshed/duofolio](https://github.com/farshed/duofolio) - An ebook reader for linguaphiles 📖
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
-- [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [dfsq/json-server-init](https://github.com/dfsq/json-server-init) - Generator of JSON files to work with json-server.
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
